@@ -1,6 +1,7 @@
 body
 {background-color: rgb(255, 128,0);
 padding: 80px;}
+display: block
         h1 {font-size: 50px; 
             font-weight: bold; 
             font-family:showcard gothic;    
