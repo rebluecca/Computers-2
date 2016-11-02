@@ -4,18 +4,17 @@ body {
 }
 h1 {
         font-size: 50px; 
-        font-weight: bold; 
-        font-family:showcard gothic;    
-         color: rgb(64,0,64);
+        font-weight: bold;    
+        color: rgb(64,0,64);
 }
 h2 {
         font-size: 30px;
-        font-family: gill sans ultra bold;
+        font-weight: bold;
 }
 
 ul {
         font-size: 24px;
-        font-family: gill sans ultra bold;
+        font-weight: bold;
 }
 
 .halloweenimg {float:right;}
