@@ -17,5 +17,9 @@ ul {
         font-weight: bold;
 }
 
-.halloweenimg {float:right;}
+.halloweenimg {float:right;
+               position:absolute;
+               top:25%;
+               left:25%;
+}
 
