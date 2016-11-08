@@ -5,13 +5,15 @@ body {
 
 h1 {
         font-size: 50px; 
-        font-weight: bold;    
+        font-weight: bold;
+        font-family: "elephant";
         color: rgb(124,44,122);
 }
 
 h2 {
         font-size: 30px;
         font-weight: bold;
+        font-family: "elephant";
         text-decoration: underline;
         color: rgb(27,89,11);
 }
@@ -19,6 +21,7 @@ h2 {
 ul {
         font-size: 24px;
         font-weight: bold;
+        font-family: "elephant";
 }
 
 .halloweenimg {float:right;
